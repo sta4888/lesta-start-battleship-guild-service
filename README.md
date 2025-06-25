@@ -1,0 +1,1 @@
+# lesta-start-battleship-guild-service
